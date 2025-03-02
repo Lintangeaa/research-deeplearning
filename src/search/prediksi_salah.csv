@@ -1,0 +1,36 @@
+﻿ID,Pertanyaan Asli,Prediksi Model,Confidence,Benar/Salah
+10,Warnanya pasti selalu konsisten tidak?, ,0.3,0
+16,Arti dari ringspun , ,0.47,0
+17,Jelaskan manfaat anti listrik statis di kain ,Dimensi kain ecer ,0.13,0
+19,Apa perbedaan non mercer dan mercer?,Perbedaan Fleece dan Baby terry ?,0.18,0
+20,Apa itu enzyme,Apa itu scouring?,0.25,0
+25,1 kg jadi berapa baju?, ,0.12,0
+30,Kalau PO berapa lama ya?,Kenapa chat lama dibalas ?,0.12,0
+31,Rekomendasi untuk baju bayi apa ya?,Untuk pengiriman bagaimana ya?,0.25,0
+36,Kalau saya pesan lewat sini lalu saya bayar di toko sekalian ambil kainnya bisa?, ,0.14,0
+46,Apa Perbedaan Hitam Sulfur dan Hitam Reaktif?,Apa kekurangan Hitam Sulfur?,0.14,0
+52,Perbedaan warna putih netral dan broken white ?,Perbedaan Fleece dan Baby terry ?,0.23,0
+56,Kain yang cocok untuk di buat Jilbab/ Kerudung?,Untuk pengiriman bagaimana ya?,0.12,0
+57,Apa bedanya Kain Pique Diamond dengan Pique Hexagon?,Kenapa harga di marketplace berbeda dengan pemesanan yang lainya ,0.11,0
+61,Apa itu Kerah dan Manset?,1 Kg kain pique membutuhkan berapa kerah dan manset?,0.23,0
+67,Apa itu slub?,Apa itu Combed?,0.33,0
+69,Apa itu Body Size?,Apa itu Combed?,0.33,0
+70,Apa saja jenis kain-kain premium?,Dimensi kain ,0.26,0
+77,Apa itu setting kain?,Apa kelebihan setting 42”?,0.12,0
+84,1 kg kain Pique bisa jadi berapa kaos polo?,1 kg kain Combed 30s jadi berapa kaos lengan panjang?,0.14,0
+99,Apakah bisa menjadi reseller dengan harga khusus dari knitto?,Kenapa harga di marketplace berbeda dengan pemesanan yang lainya ,0.09,0
+100,Apakah kain Knitto sudah di test SNI?,Apakah kain Knitto sudah di test Oekotex?,0.25,0
+113,Apakah kain Knitto pre shrunk ,Apakah kain knitto dicompact ?,0.44,0
+115,Kalau merk X (merk baju yang diketahui maupun tidak) biasanya menggunakan bahan apa? ,"Kalau merk bape, supreme, offwhite biasanya menggunakan bahan apa?",0.24,0
+119,Settingan ngaruh ke kerapatan kain gak,Dimensi kain ,0.35,0
+121,Berapa % perbandingan cotton dam polyester di kain cvc ,Berapa % perbandingan cotton dam polyester di kain cvc threetone,0.51,0
+126,Mengapa Cotton Bamboo tidak direkomendasikan untuk sablon ,Apakah ada sertifikat untuk bahan cotton bamboo ?,0.15,0
+128,Kenapa link saya expired?, ,0.21,0
+137,Apakah bisa dibuatkan versi aplikasi android/ ios ,Apakah ada loker?,0.11,0
+148,Kenapa harga complete catalog naik terus?,Berapa harga complete catalog?,0.36,0
+150,Orderannya bisa selesai berapa lama? (Sebelum menurunkan order),Kenapa chat lama dibalas ?,0.11,0
+164,Apakah ada mesin jahit khusus untuk menjahit kain combed ? ,Apakah ada kain combed biowash?,0.15,0
+166,Kendala kain ,Dimensi kain ,0.35,0
+172,license cotton supima, ,0.37,0
+177,Apakah kain knitto bisa di sablon DTF ?,Apakah kain Knitto dapat di print?,0.15,0
+178,Apakah kain Knitto menggunakan BCI?,Apakah kain knitto dicompact ?,0.25,0

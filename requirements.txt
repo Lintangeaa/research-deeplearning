@@ -1,0 +1,16 @@
+nltk==3.9.1
+transformers
+datasets
+torch
+pandas
+setuptools
+scikit-learn==1.6.1
+matplotlib
+seaborn
+Sastrawi
+fastapi
+uvicorn
+faiss-cpu
+sentence_transformers
+meilisearch
+accelerate>=0.26.0
